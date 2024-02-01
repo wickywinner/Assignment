@@ -18,16 +18,11 @@ The script includes a `Solution` class with methods to create an N-ary tree from
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/n-ary-tree-traversal.git
+    git clone https://github.com/wickywinner/Assignment.git
     ```
 
-2. Navigate to the project directory:
 
-    ```bash
-    cd n-ary-tree-traversal
-    ```
-
-3. Run the script with Python:
+2. Run the script with Python:
 
     ```bash
     python nary_tree_traversal_solution.py
